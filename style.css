@@ -1,0 +1,19 @@
+.head{
+    font-size: 32px;
+}
+
+.head_title1{
+    color: red;
+}
+
+.head_title2{
+    color: blue;
+}
+
+.head_title3{
+    color: green;
+    &_subhead{
+        color: yellow;
+    }   
+}
+
